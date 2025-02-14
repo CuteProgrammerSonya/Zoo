@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\imyzoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\imyzoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\iclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\iclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\ialive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\ialive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\myzoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\myzoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\zebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\zebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\herbivorous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\herbivorous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|c:\\users\\sonan\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\\zoo\\zoo\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCAE6DF-B178-45D8-A63C-8EF0634A0082}|Zoo\\Zoo.csproj|solutionrelative:zoo\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyZoo.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\MyZoo.cs",
+              "RelativeDocumentMoniker": "Zoo\\MyZoo.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\MyZoo.cs",
+              "RelativeToolTip": "Zoo\\MyZoo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:25:13.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Program.cs",
+              "RelativeDocumentMoniker": "Zoo\\Program.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Program.cs",
+              "RelativeToolTip": "Zoo\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:05:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMyZoo.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IMyZoo.cs",
+              "RelativeDocumentMoniker": "Zoo\\IMyZoo.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IMyZoo.cs",
+              "RelativeToolTip": "Zoo\\IMyZoo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:13:36.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Lion.cs",
+              "RelativeDocumentMoniker": "Zoo\\Lion.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Lion.cs",
+              "RelativeToolTip": "Zoo\\Lion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:34:06.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Thing.cs",
+              "RelativeDocumentMoniker": "Zoo\\Thing.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Thing.cs",
+              "RelativeToolTip": "Zoo\\Thing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:34:11.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInventory.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IInventory.cs",
+              "RelativeDocumentMoniker": "Zoo\\IInventory.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IInventory.cs",
+              "RelativeToolTip": "Zoo\\IInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:54:15.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Employee.cs",
+              "RelativeDocumentMoniker": "Zoo\\Employee.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Employee.cs",
+              "RelativeToolTip": "Zoo\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:37:46.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlive.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IAlive.cs",
+              "RelativeDocumentMoniker": "Zoo\\IAlive.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IAlive.cs",
+              "RelativeToolTip": "Zoo\\IAlive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:45:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClinic.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IClinic.cs",
+              "RelativeDocumentMoniker": "Zoo\\IClinic.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\IClinic.cs",
+              "RelativeToolTip": "Zoo\\IClinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:40:28.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Animal.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Animal.cs",
+              "RelativeToolTip": "Zoo\\Animal.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:10:32.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Table.cs",
+              "RelativeDocumentMoniker": "Zoo\\Table.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Table.cs",
+              "RelativeToolTip": "Zoo\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:10.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Wolf.cs",
+              "RelativeDocumentMoniker": "Zoo\\Wolf.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Wolf.cs",
+              "RelativeToolTip": "Zoo\\Wolf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:32:57.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Zoo\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\InventoryManager.cs",
+              "RelativeToolTip": "Zoo\\InventoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:01:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rabbit.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Rabbit.cs",
+              "RelativeDocumentMoniker": "Zoo\\Rabbit.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Rabbit.cs",
+              "RelativeToolTip": "Zoo\\Rabbit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:26:01.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Monkey.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Monkey.cs",
+              "RelativeDocumentMoniker": "Zoo\\Monkey.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Monkey.cs",
+              "RelativeToolTip": "Zoo\\Monkey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:28:45.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Tiger.cs",
+              "RelativeDocumentMoniker": "Zoo\\Tiger.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Tiger.cs",
+              "RelativeToolTip": "Zoo\\Tiger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:31:23.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Zebra.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Zebra.cs",
+              "RelativeDocumentMoniker": "Zoo\\Zebra.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Zebra.cs",
+              "RelativeToolTip": "Zoo\\Zebra.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:30:04.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Predator.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Predator.cs",
+              "RelativeDocumentMoniker": "Zoo\\Predator.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Predator.cs",
+              "RelativeToolTip": "Zoo\\Predator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:20:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Herbivorous.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Herbivorous.cs",
+              "RelativeDocumentMoniker": "Zoo\\Herbivorous.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Herbivorous.cs",
+              "RelativeToolTip": "Zoo\\Herbivorous.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:27:29.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Clinic.cs",
+              "RelativeDocumentMoniker": "Zoo\\Clinic.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Clinic.cs",
+              "RelativeToolTip": "Zoo\\Clinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:19:05.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DIContainer.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\DIContainer.cs",
+              "RelativeDocumentMoniker": "Zoo\\DIContainer.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\DIContainer.cs",
+              "RelativeToolTip": "Zoo\\DIContainer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:39:14.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Computer.cs",
+              "RelativeDocumentMoniker": "Zoo\\Computer.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Computer.cs",
+              "RelativeToolTip": "Zoo\\Computer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:24:41.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Chair.cs",
+              "RelativeDocumentMoniker": "Zoo\\Chair.cs",
+              "ToolTip": "C:\\Users\\sonan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u044B\u0448\u043A\u0430\\2_\u043A\u0443\u0440\u0441\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u041F\u041E\\Zoo\\Zoo\\Chair.cs",
+              "RelativeToolTip": "Zoo\\Chair.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:23:17.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\bin\Debug\net8.0\Zoo.exe
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\bin\Debug\net8.0\Zoo.deps.json
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\bin\Debug\net8.0\Zoo.runtimeconfig.json
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\bin\Debug\net8.0\Zoo.dll
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\bin\Debug\net8.0\Zoo.pdb
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfo.cs
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\Zoo.dll
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\refint\Zoo.dll
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\Zoo.pdb
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\Zoo.genruntimeconfig.cache
+C:\Users\sonan\OneDrive\Рабочий стол\Вышка\2_курс\Конструирование ПО\Zoo\Zoo\obj\Debug\net8.0\ref\Zoo.dll
